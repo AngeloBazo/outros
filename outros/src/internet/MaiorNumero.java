@@ -19,17 +19,14 @@ public class MaiorNumero {
 
 		if (n1 > maiorNumero) {
 			maiorNumero = n1;
-
 		}
 
 		if (n2 > maiorNumero) {
 			maiorNumero = n2;
-
 		}
 
 		if (n3 > maiorNumero) {
 			maiorNumero = n3;
-
 		}
 
 		System.out.println("O maior nº digitado foi: " + maiorNumero);
